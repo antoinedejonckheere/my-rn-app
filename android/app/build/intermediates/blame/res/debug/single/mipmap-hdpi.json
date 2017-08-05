@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/antoinedejonckheere/Documents/code/my-rn-app/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/antoinedejonckheere/Documents/code/my-rn-app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antoinedejonckheere/Documents/code/AwesomeProject/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/antoinedejonckheere/Documents/code/AwesomeProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

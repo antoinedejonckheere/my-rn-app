@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/antoinedejonckheere/Documents/code/my-rn-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/antoinedejonckheere/Documents/code/my-rn-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/antoinedejonckheere/Documents/code/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/antoinedejonckheere/Documents/code/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/res/xml/preferences.xml"
+    }
+]
